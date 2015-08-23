@@ -1,3 +1,5 @@
+# This portion of code was written by Savvas Tjortjoglou [Savvas.Tjortjoglou@gmail.com]
+
 import urllib.request
 import numpy as np
 from scipy.stats import binned_statistic_2d
